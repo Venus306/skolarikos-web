@@ -1,0 +1,18 @@
+Java is a programming language. % games develop % mobile apps % web apps % desktop apps % 1 % Why Use Java? % Java works on different platforms % mostpopular programming language in the world % easy to learn and simple to use % open-source and free % 4 % A String variable contains a collection of
+ characters surrounded
+ by double quotes: % String Length % More String Methods % Finding a String in a String % String Concatenation % 3 % The Java Math class has many methods
+ that allows you to perform mathematical
+ tasks on numbers. % Math.min(x,y) % Math.sqrt(x) % Math.max(x,y) % Math.abs(x) % 3 % Java Booleans
+Operators are used to perform
+ operations on variables and values. % int % double % boolean % string % 2 % You learned from the previous chapter, that
+ Arrays store items as an ordered collection,
+ and you have to access them with an index number % use the remove() method % use the get() method  % use the clear() method % use the size method % 2 % Wrapper classes provide a way to use primitive data
+ types (int, boolean, etc..) as objects. % byteValue() % longValue() % floatValue() % charValue() % 3 % An interface is a completely "abstract class" that
+ is used to group related methods with empty bodies %  the interface must be "implemented" % implements keyword % The body of the interface method is provided % Interface methods do not have a body % 3 % A constructor in Java is a special method that is
+ used to initialize objects.
+ The constructor is called when an object of a class
+ is created. It can be used to set initial values fo
+r object attributes % Constructors can also take parameters % The following example adds an int y parameter % You can have as many parameters as you want % which is used to initialize attributes % 3 % When executing Java code, different errors can
+ occur: coding errors made by the programmer,
+ errors due to wrong input, or other unforeseeable
+ things. % Java try and catch % If an error occurs % The finally statement lets you execute code % after try...catch, regardless of the result % 2 % 
